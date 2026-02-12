@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# hello world executable
+hello
+
+# CodeQL
+_codeql_detected_source_root
