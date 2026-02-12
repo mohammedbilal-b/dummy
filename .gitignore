@@ -56,3 +56,6 @@ dkms.conf
 
 # hello world executable
 hello
+
+# CodeQL
+_codeql_detected_source_root
